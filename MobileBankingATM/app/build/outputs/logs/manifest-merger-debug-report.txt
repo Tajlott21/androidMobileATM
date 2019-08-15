@@ -1,0 +1,170 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/FinalBoss/AndroidStudioProjects/MobileBankingATM/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/FinalBoss/AndroidStudioProjects/MobileBankingATM/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/FinalBoss/AndroidStudioProjects/MobileBankingATM/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/FinalBoss/AndroidStudioProjects/MobileBankingATM/app/src/main/AndroidManifest.xml:2:1-25:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/FinalBoss/.gradle/caches/transforms-2/files-2.1/0179735c82fd0674fa0fbdb0701c64b1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/FinalBoss/.gradle/caches/transforms-2/files-2.1/903b27f15bb0dadd7557f6a2bcdf727a/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/FinalBoss/.gradle/caches/transforms-2/files-2.1/a749c6bd84d62ea8668dbb1e9fe859b1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/FinalBoss/.gradle/caches/transforms-2/files-2.1/266af5e3bf2803dc331ef6d8fff815b7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/FinalBoss/.gradle/caches/transforms-2/files-2.1/2066126ddbb46bba5140752596a73266/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/FinalBoss/.gradle/caches/transforms-2/files-2.1/c695c16ae79dad7cfd5b1ef6b11497e2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/FinalBoss/.gradle/caches/transforms-2/files-2.1/969d60a68f05a4d46b004b76cb756eab/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/FinalBoss/.gradle/caches/transforms-2/files-2.1/4c682e09690a2c90b777a3ec6c778017/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/FinalBoss/.gradle/caches/transforms-2/files-2.1/b007fd5a6d381b0de9c5e6578aa906a7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/FinalBoss/.gradle/caches/transforms-2/files-2.1/74eb46ed9527bf362d492f06466d2c36/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/FinalBoss/.gradle/caches/transforms-2/files-2.1/38fc2384bae7d7da78ee6fd7d8df3fd6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/FinalBoss/.gradle/caches/transforms-2/files-2.1/54b7c071c60bac0206256f16adc97f54/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/FinalBoss/.gradle/caches/transforms-2/files-2.1/ebe77d1999ecf62ea863ababc35bde41/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/FinalBoss/.gradle/caches/transforms-2/files-2.1/f0100917e8fddfaf595b8d463f47ad16/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/FinalBoss/.gradle/caches/transforms-2/files-2.1/873a6196cbc87a16328f205d475b0280/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /Users/FinalBoss/.gradle/caches/transforms-2/files-2.1/bfec67e165be8d1f0be6d3724d97f336/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/FinalBoss/.gradle/caches/transforms-2/files-2.1/5251e3864a0d7855a6b90167773fb3cf/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/FinalBoss/.gradle/caches/transforms-2/files-2.1/78f252fc0686dab2ad05470235609be1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/FinalBoss/.gradle/caches/transforms-2/files-2.1/ab7bf6d3ab4061f67d9444642e389dcc/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/FinalBoss/.gradle/caches/transforms-2/files-2.1/26edad6959404da1dfc34aa56eaf1498/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/FinalBoss/.gradle/caches/transforms-2/files-2.1/724346ec473af5ad86a727885837fa39/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/FinalBoss/.gradle/caches/transforms-2/files-2.1/4fe963b58a6e8897c8a36f1cee650c01/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/FinalBoss/.gradle/caches/transforms-2/files-2.1/8fe80be850733b6e27d8dfdd099fe05f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/FinalBoss/.gradle/caches/transforms-2/files-2.1/0fb5bdfcf67bd6ab7f9704d5debc2477/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/FinalBoss/.gradle/caches/transforms-2/files-2.1/c2fa9a425f03e48e6d9ab21f03ccbe0c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/FinalBoss/.gradle/caches/transforms-2/files-2.1/dd5dd14ed8478c33adcd6d73ad171a76/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/FinalBoss/.gradle/caches/transforms-2/files-2.1/d76e1bc34020e68e9b7ebcbba04f2c83/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/FinalBoss/AndroidStudioProjects/MobileBankingATM/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/FinalBoss/AndroidStudioProjects/MobileBankingATM/app/src/main/AndroidManifest.xml:2:1-25:12
+INJECTED from /Users/FinalBoss/AndroidStudioProjects/MobileBankingATM/app/src/main/AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from /Users/FinalBoss/AndroidStudioProjects/MobileBankingATM/app/src/main/AndroidManifest.xml:3:5-43
+		INJECTED from /Users/FinalBoss/AndroidStudioProjects/MobileBankingATM/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/FinalBoss/AndroidStudioProjects/MobileBankingATM/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/FinalBoss/AndroidStudioProjects/MobileBankingATM/app/src/main/AndroidManifest.xml
+		ADDED from /Users/FinalBoss/AndroidStudioProjects/MobileBankingATM/app/src/main/AndroidManifest.xml:2:1-25:12
+		INJECTED from /Users/FinalBoss/AndroidStudioProjects/MobileBankingATM/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/FinalBoss/AndroidStudioProjects/MobileBankingATM/app/src/main/AndroidManifest.xml
+		ADDED from /Users/FinalBoss/AndroidStudioProjects/MobileBankingATM/app/src/main/AndroidManifest.xml:2:1-25:12
+		INJECTED from /Users/FinalBoss/AndroidStudioProjects/MobileBankingATM/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/FinalBoss/AndroidStudioProjects/MobileBankingATM/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/FinalBoss/AndroidStudioProjects/MobileBankingATM/app/src/main/AndroidManifest.xml:5:5-23:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/FinalBoss/.gradle/caches/transforms-2/files-2.1/903b27f15bb0dadd7557f6a2bcdf727a/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/FinalBoss/.gradle/caches/transforms-2/files-2.1/903b27f15bb0dadd7557f6a2bcdf727a/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.0.1] /Users/FinalBoss/.gradle/caches/transforms-2/files-2.1/bfec67e165be8d1f0be6d3724d97f336/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /Users/FinalBoss/.gradle/caches/transforms-2/files-2.1/bfec67e165be8d1f0be6d3724d97f336/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/FinalBoss/.gradle/caches/transforms-2/files-2.1/5251e3864a0d7855a6b90167773fb3cf/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/FinalBoss/.gradle/caches/transforms-2/files-2.1/5251e3864a0d7855a6b90167773fb3cf/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /Users/FinalBoss/.gradle/caches/transforms-2/files-2.1/bfec67e165be8d1f0be6d3724d97f336/AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from /Users/FinalBoss/AndroidStudioProjects/MobileBankingATM/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/FinalBoss/AndroidStudioProjects/MobileBankingATM/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/FinalBoss/AndroidStudioProjects/MobileBankingATM/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/FinalBoss/AndroidStudioProjects/MobileBankingATM/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/FinalBoss/AndroidStudioProjects/MobileBankingATM/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/FinalBoss/AndroidStudioProjects/MobileBankingATM/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.mobilebankingatm.ErrorActivity
+ADDED from /Users/FinalBoss/AndroidStudioProjects/MobileBankingATM/app/src/main/AndroidManifest.xml:12:9-60
+	android:name
+		ADDED from /Users/FinalBoss/AndroidStudioProjects/MobileBankingATM/app/src/main/AndroidManifest.xml:12:19-48
+activity#com.example.mobilebankingatm.Activity3
+ADDED from /Users/FinalBoss/AndroidStudioProjects/MobileBankingATM/app/src/main/AndroidManifest.xml:13:9-47
+	android:name
+		ADDED from /Users/FinalBoss/AndroidStudioProjects/MobileBankingATM/app/src/main/AndroidManifest.xml:13:19-44
+activity#com.example.mobilebankingatm.Main2Activity
+ADDED from /Users/FinalBoss/AndroidStudioProjects/MobileBankingATM/app/src/main/AndroidManifest.xml:14:9-51
+	android:name
+		ADDED from /Users/FinalBoss/AndroidStudioProjects/MobileBankingATM/app/src/main/AndroidManifest.xml:14:19-48
+activity#com.example.mobilebankingatm.Activity2
+ADDED from /Users/FinalBoss/AndroidStudioProjects/MobileBankingATM/app/src/main/AndroidManifest.xml:15:9-47
+	android:name
+		ADDED from /Users/FinalBoss/AndroidStudioProjects/MobileBankingATM/app/src/main/AndroidManifest.xml:15:19-44
+activity#com.example.mobilebankingatm.MainActivity
+ADDED from /Users/FinalBoss/AndroidStudioProjects/MobileBankingATM/app/src/main/AndroidManifest.xml:16:9-22:20
+	android:name
+		ADDED from /Users/FinalBoss/AndroidStudioProjects/MobileBankingATM/app/src/main/AndroidManifest.xml:16:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/FinalBoss/AndroidStudioProjects/MobileBankingATM/app/src/main/AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from /Users/FinalBoss/AndroidStudioProjects/MobileBankingATM/app/src/main/AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from /Users/FinalBoss/AndroidStudioProjects/MobileBankingATM/app/src/main/AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/FinalBoss/AndroidStudioProjects/MobileBankingATM/app/src/main/AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from /Users/FinalBoss/AndroidStudioProjects/MobileBankingATM/app/src/main/AndroidManifest.xml:20:27-74
+uses-sdk
+INJECTED from /Users/FinalBoss/AndroidStudioProjects/MobileBankingATM/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/FinalBoss/AndroidStudioProjects/MobileBankingATM/app/src/main/AndroidManifest.xml
+INJECTED from /Users/FinalBoss/AndroidStudioProjects/MobileBankingATM/app/src/main/AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/FinalBoss/.gradle/caches/transforms-2/files-2.1/0179735c82fd0674fa0fbdb0701c64b1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/FinalBoss/.gradle/caches/transforms-2/files-2.1/0179735c82fd0674fa0fbdb0701c64b1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/FinalBoss/.gradle/caches/transforms-2/files-2.1/903b27f15bb0dadd7557f6a2bcdf727a/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/FinalBoss/.gradle/caches/transforms-2/files-2.1/903b27f15bb0dadd7557f6a2bcdf727a/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/FinalBoss/.gradle/caches/transforms-2/files-2.1/a749c6bd84d62ea8668dbb1e9fe859b1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/FinalBoss/.gradle/caches/transforms-2/files-2.1/a749c6bd84d62ea8668dbb1e9fe859b1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/FinalBoss/.gradle/caches/transforms-2/files-2.1/266af5e3bf2803dc331ef6d8fff815b7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/FinalBoss/.gradle/caches/transforms-2/files-2.1/266af5e3bf2803dc331ef6d8fff815b7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/FinalBoss/.gradle/caches/transforms-2/files-2.1/2066126ddbb46bba5140752596a73266/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/FinalBoss/.gradle/caches/transforms-2/files-2.1/2066126ddbb46bba5140752596a73266/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/FinalBoss/.gradle/caches/transforms-2/files-2.1/c695c16ae79dad7cfd5b1ef6b11497e2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/FinalBoss/.gradle/caches/transforms-2/files-2.1/c695c16ae79dad7cfd5b1ef6b11497e2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/FinalBoss/.gradle/caches/transforms-2/files-2.1/969d60a68f05a4d46b004b76cb756eab/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/FinalBoss/.gradle/caches/transforms-2/files-2.1/969d60a68f05a4d46b004b76cb756eab/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/FinalBoss/.gradle/caches/transforms-2/files-2.1/4c682e09690a2c90b777a3ec6c778017/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/FinalBoss/.gradle/caches/transforms-2/files-2.1/4c682e09690a2c90b777a3ec6c778017/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/FinalBoss/.gradle/caches/transforms-2/files-2.1/b007fd5a6d381b0de9c5e6578aa906a7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/FinalBoss/.gradle/caches/transforms-2/files-2.1/b007fd5a6d381b0de9c5e6578aa906a7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/FinalBoss/.gradle/caches/transforms-2/files-2.1/74eb46ed9527bf362d492f06466d2c36/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/FinalBoss/.gradle/caches/transforms-2/files-2.1/74eb46ed9527bf362d492f06466d2c36/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/FinalBoss/.gradle/caches/transforms-2/files-2.1/38fc2384bae7d7da78ee6fd7d8df3fd6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/FinalBoss/.gradle/caches/transforms-2/files-2.1/38fc2384bae7d7da78ee6fd7d8df3fd6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/FinalBoss/.gradle/caches/transforms-2/files-2.1/54b7c071c60bac0206256f16adc97f54/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/FinalBoss/.gradle/caches/transforms-2/files-2.1/54b7c071c60bac0206256f16adc97f54/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/FinalBoss/.gradle/caches/transforms-2/files-2.1/ebe77d1999ecf62ea863ababc35bde41/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/FinalBoss/.gradle/caches/transforms-2/files-2.1/ebe77d1999ecf62ea863ababc35bde41/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/FinalBoss/.gradle/caches/transforms-2/files-2.1/f0100917e8fddfaf595b8d463f47ad16/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/FinalBoss/.gradle/caches/transforms-2/files-2.1/f0100917e8fddfaf595b8d463f47ad16/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/FinalBoss/.gradle/caches/transforms-2/files-2.1/873a6196cbc87a16328f205d475b0280/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/FinalBoss/.gradle/caches/transforms-2/files-2.1/873a6196cbc87a16328f205d475b0280/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/FinalBoss/.gradle/caches/transforms-2/files-2.1/bfec67e165be8d1f0be6d3724d97f336/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/FinalBoss/.gradle/caches/transforms-2/files-2.1/bfec67e165be8d1f0be6d3724d97f336/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/FinalBoss/.gradle/caches/transforms-2/files-2.1/5251e3864a0d7855a6b90167773fb3cf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/FinalBoss/.gradle/caches/transforms-2/files-2.1/5251e3864a0d7855a6b90167773fb3cf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/FinalBoss/.gradle/caches/transforms-2/files-2.1/78f252fc0686dab2ad05470235609be1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/FinalBoss/.gradle/caches/transforms-2/files-2.1/78f252fc0686dab2ad05470235609be1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/FinalBoss/.gradle/caches/transforms-2/files-2.1/ab7bf6d3ab4061f67d9444642e389dcc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/FinalBoss/.gradle/caches/transforms-2/files-2.1/ab7bf6d3ab4061f67d9444642e389dcc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/FinalBoss/.gradle/caches/transforms-2/files-2.1/26edad6959404da1dfc34aa56eaf1498/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/FinalBoss/.gradle/caches/transforms-2/files-2.1/26edad6959404da1dfc34aa56eaf1498/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/FinalBoss/.gradle/caches/transforms-2/files-2.1/724346ec473af5ad86a727885837fa39/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/FinalBoss/.gradle/caches/transforms-2/files-2.1/724346ec473af5ad86a727885837fa39/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/FinalBoss/.gradle/caches/transforms-2/files-2.1/4fe963b58a6e8897c8a36f1cee650c01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/FinalBoss/.gradle/caches/transforms-2/files-2.1/4fe963b58a6e8897c8a36f1cee650c01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/FinalBoss/.gradle/caches/transforms-2/files-2.1/8fe80be850733b6e27d8dfdd099fe05f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/FinalBoss/.gradle/caches/transforms-2/files-2.1/8fe80be850733b6e27d8dfdd099fe05f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/FinalBoss/.gradle/caches/transforms-2/files-2.1/0fb5bdfcf67bd6ab7f9704d5debc2477/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/FinalBoss/.gradle/caches/transforms-2/files-2.1/0fb5bdfcf67bd6ab7f9704d5debc2477/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/FinalBoss/.gradle/caches/transforms-2/files-2.1/c2fa9a425f03e48e6d9ab21f03ccbe0c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/FinalBoss/.gradle/caches/transforms-2/files-2.1/c2fa9a425f03e48e6d9ab21f03ccbe0c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/FinalBoss/.gradle/caches/transforms-2/files-2.1/dd5dd14ed8478c33adcd6d73ad171a76/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/FinalBoss/.gradle/caches/transforms-2/files-2.1/dd5dd14ed8478c33adcd6d73ad171a76/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/FinalBoss/.gradle/caches/transforms-2/files-2.1/d76e1bc34020e68e9b7ebcbba04f2c83/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/FinalBoss/.gradle/caches/transforms-2/files-2.1/d76e1bc34020e68e9b7ebcbba04f2c83/AndroidManifest.xml:20:5-44
+INJECTED from /Users/FinalBoss/AndroidStudioProjects/MobileBankingATM/app/src/main/AndroidManifest.xml
+INJECTED from /Users/FinalBoss/AndroidStudioProjects/MobileBankingATM/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/FinalBoss/AndroidStudioProjects/MobileBankingATM/app/src/main/AndroidManifest.xml
+		ADDED from /Users/FinalBoss/AndroidStudioProjects/MobileBankingATM/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/FinalBoss/AndroidStudioProjects/MobileBankingATM/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/FinalBoss/AndroidStudioProjects/MobileBankingATM/app/src/main/AndroidManifest.xml
+		ADDED from /Users/FinalBoss/AndroidStudioProjects/MobileBankingATM/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/FinalBoss/AndroidStudioProjects/MobileBankingATM/app/src/main/AndroidManifest.xml

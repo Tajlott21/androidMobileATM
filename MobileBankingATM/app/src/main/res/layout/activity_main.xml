@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#009688"
+    tools:context=".MainActivity">
+
+
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerInParent="true"
+        android:autoText="false"
+        android:background="#009688"
+        android:clickable="false"
+        android:drawableBottom="@drawable/bank"
+        android:editable="false"
+        android:enabled="false"
+        android:foreground="@drawable/ic_launcher_foreground"
+        android:foregroundGravity="bottom|center"
+        android:gravity="center"
+        android:includeFontPadding="false"
+        android:text="Welcome to Mobile Banking Services"
+        android:textAllCaps="true"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+        android:textColor="@android:color/white"
+        android:textSize="45dp"
+        app:fontFamily="serif" />
+
+    <TextView
+        android:id="@+id/currentBal"
+        android:layout_width="match_parent"
+        android:layout_height="51dp"
+        android:layout_alignBottom="@id/title"
+        android:layout_marginBottom="-56dp"
+        android:autoText="true"
+        android:background="@android:color/black"
+        android:text="Checking Account:"
+        android:textAllCaps="true"
+        android:textColor="@android:color/white"
+        android:textSize="35dp" />
+
+    <TextView
+        android:id="@+id/userBal"
+        android:layout_width="194dp"
+        android:layout_height="26dp"
+        android:layout_below="@+id/currentBal"
+        android:layout_alignBottom="@+id/currentBal"
+        android:layout_marginTop="56dp"
+        android:layout_marginBottom="-83dp"
+        android:background="@android:color/black"
+        android:text="$0.00"
+        android:textColor="@android:color/white"
+        android:textSize="50dp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="648dp"
+        android:divider="@android:drawable/bottom_bar"
+        android:gravity="bottom"
+        android:orientation="vertical"
+        android:showDividers="none"
+        android:visibility="visible"
+        tools:visibility="visible"><![CDATA[
+
+        />
+
+        ]]>
+
+        <TextView
+            android:id="@+id/deposit"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="-79dp"
+            android:background="#4CAF50"
+            android:clickable="true"
+            android:focusable="true"
+            android:hapticFeedbackEnabled="true"
+            android:text="@string/deposit"
+            android:textAllCaps="true"
+            android:textColor="@android:color/white"
+            android:textSize="30dp" />
+
+        <TextView
+            android:id="@+id/withdraw"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#F44336"
+            android:bufferType="normal"
+            android:clickable="true"
+            android:hapticFeedbackEnabled="true"
+            android:lineSpacingExtra="24dp"
+            android:text="@string/withdraw"
+            android:textAllCaps="true"
+            android:textColor="@android:color/white"
+            android:textSize="30dp" />
+    </LinearLayout>
+
+</RelativeLayout>
